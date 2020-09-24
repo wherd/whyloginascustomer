@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>whyloginascustomer</name>
+    <displayName><![CDATA[Login as customer]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[Allows you to login as a customer from the back-office.]]></description>
+    <author><![CDATA[Wherd]]></author>
+    <tab><![CDATA[administration]]></tab>
+    <is_configurable>0</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
