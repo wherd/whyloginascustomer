@@ -22,6 +22,7 @@
  * @copyright  2019-2020 Wherd
  * @license    http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
  */
+
 class WhyloginascustomerLoginModuleFrontController extends ModuleFrontControllerCore
 {
     public $ssl = true;
